@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+*.netrc
+.netrc
+github.netrc
+apps.json
+*.sql*
+*.tar*
+*.gz
+*.zip
+sites/
+backups/
+.DS_Store
